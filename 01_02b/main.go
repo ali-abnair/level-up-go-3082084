@@ -28,7 +28,6 @@ func slowDown(msg string) {
 				result = result + string(ch)
 			}
 		}
-
 		print(result)
 	}
 
